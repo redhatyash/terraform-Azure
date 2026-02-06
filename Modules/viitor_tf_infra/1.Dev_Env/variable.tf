@@ -20,15 +20,7 @@ variable "common_tags" {
 variable "storage_name01" {
   
 }
-variable "storage_name02" {
-  
-}
-variable "storage_name03" {
-  
-}
-variable "storage_name04" {
-  
-}
+
 variable "account_tier" {
   
 }
